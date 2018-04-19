@@ -3,3 +3,26 @@
 ---
 
 @import "minima";
+
+$base-font-family: 'Arvo', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+.social-media-list {
+	text-align: right;
+}
+
+
+span.active {
+	background: #eee;
+}
+
+header a {
+	padding: 0.25em 0;
+}
+
+nav span {
+	display: block;
+	float: left;
+	padding: 0.5em 1em;
+}
+

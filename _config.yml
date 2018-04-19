@@ -15,6 +15,7 @@ description: >-
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mariotinoco.com"
 github_username:  marioandrest
+linkedin_username: mario-tinoco
 
 # Build settings
 
@@ -35,4 +36,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-leap-day
+
+docs:
+- title: Resume
+  url: /resume/
+- title: Projects
+  url: /projects/
+
+
