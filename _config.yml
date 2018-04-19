@@ -37,10 +37,12 @@ plugins:
 #   - vendor/ruby/
 
 
+# docs:
+# - title: Resume
+#   url: /resume/
+# - title: Projects
+#   url: /projects/
+
 docs:
-- title: Resume
-  url: /resume/
 - title: Projects
   url: /projects/
-
-
